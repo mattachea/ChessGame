@@ -1,0 +1,77 @@
+TEAM:
+Joanna Wang
+jwang249
+Matthew Chea
+mchea1
+
+DESIGN:
+ChessGame object is created in main.cpp, then calls run(). run() handles user input, calling save() and load(), and integratng the different game functions. Each piece has its own ValidMove method which only returns the ENUM value. MakeMove then parses the ENUM value and moves the piece is there is no Move error. Then isChecked() is called - if the player is in check, the piece gets moved back. This continues until quit, forfeit, checkmate, or stalemate. 
+
+COMPLETENESS:
+complete - should function as intended
+
+WE DID CASTLING.
+
+SPECIAL INSTRUCTIONS:
+make - to compile main
+make unittest - to compile unittest.cpp
+
+UNIT TESTS:
+     save():
+        -moved pieces and saved the board to a txt file. Checked the text file
+	
+     load():
+	-loaded a board from a txt file. checked the positions of pieces
+
+     Pawn validMove:
+	-blocked by another piece
+	-moving backward
+	-moving right/left
+	-moving diagonally without capturing
+	-moving forward
+	-triple move from starting position
+	-double move from starting position
+	-capturing diagonally
+
+     Knight validMove:
+	-blocked by same color piece
+	-valid movement, L shaped
+	-invalid moves, not L shaped
+	-capture enemy
+
+     Rook validMove:
+	-blocked horizontally/vertically by another piece
+	-move horizontal/vertical
+	-move diagonally
+	-capture enemy
+
+     Bishop validMove:
+	-blocked diagonally by another piece
+        -move horizontal/vertical
+        -move diagonally
+        -capture enemy
+
+     Queen validMove:
+        -blocked diagonally by another piece
+	-blocked horizontally/vertically by another piece
+        -move diagonally
+        -move horizontally/vertically
+	-invalid move
+        -capture enemy
+
+     King validMove:
+	-blocked diagonally
+	-blocked horizontally/vertically
+	-valid diagonal move
+	-valid horizontal/vertical move
+	-capturing enemy
+
+     isChecked():
+	- in check
+	- checks
+	- neither
+
+      castling():
+	-to the right
+	-to the left
+	-can't because in check

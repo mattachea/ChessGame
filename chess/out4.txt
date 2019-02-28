@@ -1,0 +1,9 @@
+1. Start a new game
+2. Load a saved game
+White turn 1:
+Black turn 2:
+White turn 3:
+Enter a file to save to:
+White turn 3:
+Black turn 4:
+Game over. Goodbye!

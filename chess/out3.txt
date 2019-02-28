@@ -1,0 +1,4 @@
+1. Start a new game
+2. Load a saved game
+Enter a file to load from:
+Failed to load the game

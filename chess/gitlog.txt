@@ -1,0 +1,677 @@
+commit 1b822b9992c39240d788b5067e8e284d063a0a94
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 22:36:08 2017 -0400
+
+    done
+
+commit f4b7559e36d68b96c8f606a95df9a9c9f5fe99d2
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 22:34:16 2017 -0400
+
+    castle
+
+commit 65a9efff4f9192bed4cc153057d749c9451e117e
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 21:56:26 2017 -0400
+
+    up
+
+commit 25e6db67572dab8658c3717fb84c40356cda7244
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 21:55:44 2017 -0400
+
+    bug
+
+commit 347aa8336bf0d4ebd80399c6c828b7e6d0a5badb
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 21:36:37 2017 -0400
+
+    dfs
+
+commit 8637a1c4dd2f5f1a57bf113714667ce213adee35
+Merge: 0a57aac fd80b2c
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 21:35:27 2017 -0400
+
+    unittest castle
+
+commit 0a57aacc84bf5ac657ce1780ab6f0b864f127a04
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 21:34:24 2017 -0400
+
+    unittest for castle
+
+commit fd80b2c507ca5b665b52598d5ab38aa674268987
+Merge: c7f3001 6b069be
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 21:33:30 2017 -0400
+
+    d
+
+commit c7f3001c73689a3019ca514aa64d08e80b69f31b
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 21:29:01 2017 -0400
+
+    castle
+
+commit 6b069be44928130f92c402391ae8bc35fb646a5a
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 19:15:38 2017 -0400
+
+    submitting
+
+commit a4bf6842f02cffdc00cf877494c8e4ce59adb987
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 19:13:09 2017 -0400
+
+    sfd
+
+commit f30f3165663c9ed62ab1e8cbdd36b16821b06903
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 19:12:53 2017 -0400
+
+    comments
+
+commit a4c59cd8665ea7bc8798798c3d1aece023600c46
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 18:45:14 2017 -0400
+
+    almost done
+
+commit 916d66115c34b13196b1c3f6755777b08a999201
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 18:29:11 2017 -0400
+
+    finished!
+
+commit fdc03f7c0a2889b7e0aa6d88af286d75f7d3b2f8
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 18:16:39 2017 -0400
+
+    readme
+
+commit b80a975ba7ceacf9f7f8c5d70b5a7fa6096d13cc
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 18:11:53 2017 -0400
+
+    done with unittests
+
+commit 035d2189544dc73da0fbd5f562b4c28c6a3852c5
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 18:11:07 2017 -0400
+
+    oretty
+
+commit 18d29ee1da28fbdd92f915583b7b812b21430ce6
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 17:50:37 2017 -0400
+
+    makeMove
+
+commit 7e494183299f6a184fd50b4154eb7e005be77317
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 17:48:48 2017 -0400
+
+    fix
+
+commit 5cdd2f64dceccf3e094bec0ba24d7e2573e33913
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 17:46:53 2017 -0400
+
+    test
+
+commit ab0fc0b89e965cd58eb8f010fda0f4715dea4469
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 16:45:38 2017 -0400
+
+    extra
+
+commit 3971c64877f5ce4f265c16870b86511cb3a83a56
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 16:44:35 2017 -0400
+
+    test shell
+
+commit e712c65cbbab1613d4967df10c7ccd5f6ac51f7e
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 16:32:31 2017 -0400
+
+    checkmate unittests
+
+commit da339b15d316cf5ced3b4745f4ff1c58d4298c08
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 16:11:53 2017 -0400
+
+    better color
+
+commit e32267a2dcd620178a1760ec33ada9142104b554
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 15:57:19 2017 -0400
+
+    color
+
+commit 23c2c6b884f1d8d9942afcb50468baa3faec3807
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 14:48:35 2017 -0400
+
+    unittests work
+
+commit 0bdd0acb3a0a3179b12d8d7beabf94db51890d98
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 14:04:52 2017 -0400
+
+    fdskij
+
+commit daf995837ea3f87564929d75e6992ef40de9fd8c
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 13:52:47 2017 -0400
+
+    clean up
+
+commit 53ae1cfdf3a2d5b3e45e9c08092c4ded0f5b889b
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 13:49:19 2017 -0400
+
+    reorganize methods
+
+commit 81360a5c9800e37413a04406fa21ce1286916c6c
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 13:44:06 2017 -0400
+
+    only testing left
+
+commit 4d81f96055c15dd4bde6dad0d165b4b088f9bb47
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 11:47:48 2017 -0400
+
+    memory leaks fixed in Make Move
+
+commit 63f1de8d067424d8918069fee06fd85dbac30074
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 11:18:46 2017 -0400
+
+     a
+
+commit 54e7baedd55986324fdb9a9fb17e1937b74aeb41
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 02:25:37 2017 -0400
+
+    clean
+
+commit 49dfb4cffc9039966fe743fe801483e023797275
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 02:20:50 2017 -0400
+
+    checkmate ;)
+
+commit 4a1b54b844946f52d6a6c18fac186829f6e39e71
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Fri May 5 01:07:57 2017 -0400
+
+    adsn
+
+commit bb0fbec26a660cdce00c902f221b4f0984583a85
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Fri May 5 01:06:17 2017 -0400
+
+    checkmate
+
+commit d7e5e06728a734ee2a76dae6b464ab1c925deeb4
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Thu May 4 23:00:11 2017 -0400
+
+    fixed check for real
+
+commit 3ea615cad13cf13aa588b164cee0b25ad2a7658a
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Thu May 4 22:00:30 2017 -0400
+
+    stalemate
+
+commit 78d23429d11c593bfcd545102f9e2a920c0d85f9
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Thu May 4 20:57:29 2017 -0400
+
+    finsihed all check handling
+
+commit 46e1693628a24d981dc0391c0a4b422723dce5d3
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Thu May 4 19:31:16 2017 -0400
+
+    grisjg
+
+commit cf944c6f90a893692b37b83c2167839f1a7f8f19
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Thu May 4 17:47:35 2017 -0400
+
+    check
+
+commit d4d5e084200b341bc9646751c4e8efbd595696ac
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Thu May 4 17:27:35 2017 -0400
+
+    more unit tests
+
+commit baf9681a18769c3c0ae4b94c21f16e268a1e233c
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Thu May 4 10:41:35 2017 -0400
+
+    public to private
+
+commit 3c738c552f21014c42ac532c76417b439495e50e
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Thu May 4 01:38:51 2017 -0400
+
+    organize
+
+commit dbd159155510134828cc793d782c68b93a7a04ff
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Thu May 4 01:35:42 2017 -0400
+
+    unit tests
+
+commit dea4e3fb6457e433a15b0e127f585dee0dfdcc3b
+Merge: 1976570 515a76b
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Wed May 3 23:06:03 2017 -0400
+
+    Merge branch 'master' of https://bitbucket.org/joannawang59/final_project
+
+commit 515a76b2a3f84d7a3c20092d950518e3a7f897ef
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 21:24:08 2017 -0400
+
+    fixed check
+
+commit 030bf392c0940b52337d0b4f0836c69ddb8838c3
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 20:35:10 2017 -0400
+
+    fix
+
+commit 1976570f6e2114178ff2f150560dfb430600aa53
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Wed May 3 20:19:31 2017 -0400
+
+    testing
+
+commit 0ae04cbfae50b2323c0019906941cd7d76a69a53
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 20:18:06 2017 -0400
+
+    fix
+
+commit 8d6b00ba3e1669a5a5f61c30116499889b5dcff6
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 20:09:19 2017 -0400
+
+    fix
+
+commit 804d9052527eba202fb6a886adf05fa77d74ffe6
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 20:07:35 2017 -0400
+
+    fix
+
+commit 6b055a187ad1048f0be9bf2f075123de20d55227
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Wed May 3 19:44:17 2017 -0400
+
+    testing knight
+
+commit 25abf27c92910c479867e6da400d990bba908421
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 19:43:08 2017 -0400
+
+    lots
+
+commit efb56a7b9f2dc6ac0b6f9ad137f349be9f390712
+Merge: 7409244 95cbb0d
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 17:57:11 2017 -0400
+
+    Merge branch 'master' of https://bitbucket.org/joannawang59/final_project
+
+commit 7409244bc153a4849ab587ad6975de713e24fa5a
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 17:56:38 2017 -0400
+
+    organize
+
+commit 95cbb0d5f2a749c1fad6ccefe2c544703d0054e0
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Wed May 3 17:55:00 2017 -0400
+
+    testing pawn
+
+commit 1a8807742f235c6d65ba0fb297be560e4768c120
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 17:54:12 2017 -0400
+
+    organize
+
+commit 33f1042d7b174c8f9803800e2a7839310a992c43
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 17:28:04 2017 -0400
+
+    checked doesnt work :(
+
+commit 1d85e6a0fe6528c5c62b4c4c78ea53f6a3bbcd8c
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 17:01:39 2017 -0400
+
+    checked!
+
+commit 24d686b7e6261f52f0008e4dc7cca45ff1a6899c
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 14:21:08 2017 -0400
+
+    checked still in progress
+
+commit 9eabee6c8435ed7b6c8af6e198fc814acca6e94d
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 10:46:30 2017 -0400
+
+    isChecked - causes seg fault when move is made
+
+commit f24bea23d97032097a208f3e6a2bded78dbd8cc3
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Wed May 3 00:26:00 2017 -0400
+
+    started check method - have algorithm worked out
+
+commit 704959c3c9d12421a8cbb9fe1c8db9f55f920f91
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Tue May 2 23:10:04 2017 -0400
+
+    left: check, checkmate, mystery, pretty board, castling
+
+commit 35acab82c9f897b2f72d05405dc08da7390dc034
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Tue May 2 22:59:24 2017 -0400
+
+    a lot of nuances and housekeeping
+
+commit 0e835afba35b655fe89ca41c00c6a01e8904ccbc
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Tue May 2 21:01:27 2017 -0400
+
+    pawn to queen, input fixing
+
+commit 01f7fa5454fe5ba915a3cf225cc08f67bd582e38
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Tue May 2 19:47:53 2017 -0400
+
+    save/load finished
+
+commit c4cb931731a0dbd46dfc08909ceeec7d6d4d5e9f
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Tue May 2 18:23:56 2017 -0400
+
+    load - does not work
+
+commit 3f764386d5ddf89b82e5ba9679fc7fb9f3cd8f45
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Tue May 2 18:01:37 2017 -0400
+
+    small edits, start load
+
+commit a4149ab2a9ef1f7b44552aafd3fe8c50361d5bce
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Tue May 2 13:54:02 2017 -0400
+
+    save state and input fix
+
+commit c3db36b311b2c4498a7d8f4144060473eb36ed94
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Tue May 2 11:47:34 2017 -0400
+
+    save state
+
+commit 9448ccb6c9ea7083cb72d9bcd4dcc82ae3749ee4
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Tue May 2 01:54:26 2017 -0400
+
+    almost done with moving pieces
+
+commit 3fb6b44225ad53a7ce18ee3d43124c3e38065959
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Tue May 2 00:56:45 2017 -0400
+
+    queen works
+
+commit 585741f6d5ddd326613f0da18fb708e2ed99d525
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Tue May 2 00:27:21 2017 -0400
+
+    bishop works
+
+commit 3c5f683b5ff6a29c97828ee6e28c9a874a56288c
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Mon May 1 17:56:14 2017 -0400
+
+    bishop
+
+commit b1ce2ec0e831fb57a904ccb3910e07ec81b6c82e
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Mon May 1 02:28:31 2017 -0400
+
+    started on bishop
+
+commit 056e1030dab57c7bbe335cc16ecc39c9f7f9ab9e
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Mon May 1 01:46:58 2017 -0400
+
+    Good Knight
+
+commit ec85c6b0cc2fe4bc2804020fcadc7e2fbc860826
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Mon May 1 00:49:32 2017 -0400
+
+    pawn and rook work perfectly
+
+commit 7b60b41581fa6601757a5964462a0c2ecbdf4871
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Mon May 1 00:09:50 2017 -0400
+
+    rook
+
+commit 62114a1393be8ff45f913cd05e23fefa4ce7f747
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Mon May 1 00:00:56 2017 -0400
+
+    Joanna is a pawn star
+
+commit c788cd115fe68ded6585eb3428d9d89eb4e61025
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sun Apr 30 23:22:32 2017 -0400
+
+    rook rook rook rook rook - by rihanna
+
+commit b8ffc11b5e46d3c29464124f412fb93867858fb3
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sun Apr 30 22:29:46 2017 -0400
+
+    fix some bug
+
+commit 24fdeb97a122b67506b735eb1afeb8e618b5c61b
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Sun Apr 30 18:29:35 2017 -0400
+
+    merged
+
+commit 9fe7b2448ee8a44a9e1be1b36ef4cbb0fce8d0cc
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sun Apr 30 18:23:15 2017 -0400
+
+    rook validMove mostly done
+
+commit 39e4fcc6d1ca9b71b033871f49cc793f9e6d16b5
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sun Apr 30 16:50:35 2017 -0400
+
+    file clean up and new copy file to work side by side
+
+commit aa2d9b164a7a9db14528d6d86e988229b717dd18
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Sun Apr 30 16:45:20 2017 -0400
+
+    working on pawn
+
+commit df1571a6267bc4b961a307f4f1285e43eac5c1d3
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sat Apr 29 15:14:45 2017 -0400
+
+    fixed pawn validation
+
+commit 60f983b7cf8a4ea278fabadd97348a12db8111aa
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sat Apr 29 15:04:35 2017 -0400
+
+    finished validation for pawn - need to incorporate into makeMove
+
+commit 34b4d69dbd70db9fbc3a03ff5c04ba77fb94b1af
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Thu Apr 27 12:44:52 2017 -0400
+
+    trying to implement
+
+commit b88c537a7408b1b5191f3d05882253f861240eca
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Thu Apr 27 11:42:48 2017 -0400
+
+    pawn
+
+commit 0cf7464f8cd97b85415755735d2a1d104290901f
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Thu Apr 27 11:25:22 2017 -0400
+
+    pawn valid
+
+commit 70fbe64d650c32ce329fd79ee928629bdc81dfb3
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Thu Apr 27 10:45:58 2017 -0400
+
+    to be safe
+
+commit 3eacad8ee8a7742e34462c545c802d29327d3585
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Thu Apr 27 10:37:09 2017 -0400
+
+    uhhhhh
+
+commit 983cdb95decde557ffc7a4b94f79caf40540b676
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Thu Apr 27 09:52:09 2017 -0400
+
+    edit at the same time
+
+commit 102153ef5a6bb4ee6da6f3ae8c3e4b0f302be984
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Thu Apr 27 09:47:14 2017 -0400
+
+    input parsing
+
+commit af48ad1cad122793e7ca750541aa5fb6f9032483
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Thu Apr 27 02:25:03 2017 -0400
+
+    can move pieces but indices are backwards
+
+commit 897e20295bbab63ee51caa988852d1dce3526a3e
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Wed Apr 26 02:35:54 2017 -0400
+
+    got board to print
+
+commit 19ea508a6e93a40df25f77ec9d619100acdde0af
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Wed Apr 26 01:53:19 2017 -0400
+
+    trying to print board
+
+commit a2fce28800a422fe2931f0cb303c370a3e89491a
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Wed Apr 26 01:08:55 2017 -0400
+
+    printing out board
+
+commit 640366bdf038b121e8adb6cdce3d5c42cc360ad1
+Merge: 7eb6483 55c7beb
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Sun Apr 23 22:22:51 2017 -0400
+
+    Merge branch 'master' of https://bitbucket.org/joannawang59/final_project
+
+commit 7eb6483b86c5bd35d0b22414725286df949333cf
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Sun Apr 23 22:22:29 2017 -0400
+
+    pawn
+
+commit d76cf378ec671fc3d6713772f46068c01578f843
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Sun Apr 23 22:21:42 2017 -0400
+
+    pawn
+
+commit 55c7beb8a695260cb2f77aae53131cbf123a0ded
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sun Apr 23 22:07:56 2017 -0400
+
+    developed run method and makeMove method partially
+
+commit da7549ecb8a7a439e46515261dc553ed0cb6be47
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sun Apr 23 20:59:58 2017 -0400
+
+    experiment to see how git works
+
+commit 0a8e9167d9572eb0fc83fcfff8752d384150b918
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Sun Apr 23 20:58:36 2017 -0400
+
+    asdfa
+
+commit 9e3000e92fc5e52027e81f2bcb361a853b062736
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sun Apr 23 18:00:39 2017 -0400
+
+    fixed main
+
+commit 0a6232c9cd4931fdd5f54b442d8fea7959daf243
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sun Apr 23 17:50:40 2017 -0400
+
+    filled in skeleton code to get basic interface set up
+
+commit a7a599c0a60a3787971f755526b68f303cc7a215
+Merge: e29a784 c33463e
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sun Apr 23 17:09:01 2017 -0400
+
+    Merge branch 'master' of https://bitbucket.org/joannawang59/final_project
+
+commit e29a784a4b549a61eca034501d3336164c93b0d4
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sun Apr 23 17:08:15 2017 -0400
+
+    adding other half of files
+
+commit 091d23faaa1b735a94c39db70477be06a7c3ee32
+Author: Joanna Wang <jwang249@jhu.edu>
+Date:   Sun Apr 23 17:07:07 2017 -0400
+
+    adding other half of files
+
+commit c33463e67edeb7da507bcbfdd4987194089b8e0f
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Sun Apr 23 17:06:43 2017 -0400
+
+    added files
+
+commit f7356f86d1a3163e456acb89be7a66c76dce1e8a
+Author: Matthew Chea <mchea1@jhu.edu>
+Date:   Sun Apr 23 16:56:56 2017 -0400
+
+    testing

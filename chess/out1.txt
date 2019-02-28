@@ -1,0 +1,28 @@
+1. Start a new game
+2. Load a saved game
+White turn 1:
+Black turn 2:
+Error: you do not have a piece there.
+Black turn 2:
+White turn 3:
+Black turn 4:
+Error: couldn't parse your move.
+Black turn 4:
+Error: couldn't parse your move.
+Black turn 4:
+Error: couldn't parse your move.
+Black turn 4:
+Error: couldn't parse your move.
+Black turn 4:
+Error: you do not have a piece there.
+Black turn 4:
+Error: you do not have a piece there.
+Black turn 4:
+White turn 5:
+Error: you do not have a piece there.
+White turn 5:
+Error: illegal move.
+White turn 5:
+White captures a piece.
+Black turn 6:
+Game over. Goodbye!
